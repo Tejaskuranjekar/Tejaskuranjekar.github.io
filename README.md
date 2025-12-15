@@ -1,4 +1,4 @@
-# Tejaskuranjekar.github.io
+# tejaskuranjekar.github.io
 portfolio 
 
 # 📊 Data Science Portfolio – Tejas
